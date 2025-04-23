@@ -1,11 +1,11 @@
 {
-    "name": "flutter_unit_converter",
-    "short_name": "flutter_unit_converter",
+    "name": "unit_converter",
+    "short_name": "unit_converter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A unit converter built with Flutter",
+    "description": "A unit converter built with Flutter.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

@@ -1,6 +1,6 @@
 # Flutter Unit Converter
 
-A unit converter built with Flutter
+A unit converter built with Flutter.
 
 ## Getting Started
 
